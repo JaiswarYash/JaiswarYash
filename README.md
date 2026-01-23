@@ -54,35 +54,6 @@ I'm passionate about developing end-to-end machine learning pipelines, REST APIs
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-## 📌 Featured Projects
-
-### Intelligent Data Quality & Drift Monitoring System
-End-to-End MLOps solution for detecting data quality issues and model drift in real-time with automated alerts and monitoring dashboards.
-- **Technologies**: Python, MLOps, Monitoring, Data Validation, Real-time Streaming
-- **Key Features**: Drift detection, data quality checks, performance tracking, automated alerting
-- **Status**: Public Repository
-
-### Credit Card Fraud Detection System
-Advanced machine learning system for detecting fraudulent credit card transactions with high precision and real-world deployment considerations.
-- **Technologies**: Python, Scikit-Learn, XGBoost, Pandas, Feature Engineering
-- **Key Features**: Imbalanced data handling, feature engineering, model optimization, evaluation metrics
-- **Status**: Public Repository
-
-### RAG-Powered Knowledge Assistant
-Intelligent system for document-based question answering using retrieval-augmented generation.
-- **Technologies**: Python, LLM Frameworks, Vector Databases
-- **Key Features**: Document indexing, semantic search, context-aware responses
-- **Status**: Public Repository
-
-### Customer Churn Prediction
-Classification model for predicting customer churn with comprehensive data pipeline and feature engineering.
-- **Technologies**: Python, Scikit-Learn, Pandas, Jupyter
-- **Key Features**: EDA, Feature Engineering, Model Evaluation, Visualization
-- **Status**: Public Repository
-
----
-
 ## 📊 GitHub Activity
 
 - 💪 **125+** contributions in the last year
