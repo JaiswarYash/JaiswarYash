@@ -31,6 +31,7 @@ after deployment.
 - Guardrails for LLM applications
 - Evaluation and observability for LLM systems
 - Production ML system architecture and deployment
+- Devloping End to end production ready proejects
 
 ## Let's Connect
 💻 [GitHub](https://github.com/JaiswarYash)
