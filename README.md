@@ -12,7 +12,6 @@ after deployment.
 | Project | What it does | Stack | Status |
 |---|---|---|---|
 | RAG Knowledge Assistant | Answers questions over private documents with cited sources | Python, LLM APIs, Vector DB | In progress, target Dec 2026 |
-| Data Quality & Drift Monitor | Detects data and model drift in production pipelines and raises alerts | Python, MLOps, Monitoring | In progress, target Dec 2026 |
 | Credit Card Fraud Detection | Classifies fraudulent transactions with a focus on precision and recall on rare cases | Python, scikit-learn, XGBoost, Pandas | In progress, target Dec 2026 |
 | LLM Fine-Tuning Notebook | Fine-tunes a language model in a Jupyter notebook and compares it with the base model | Python, Hugging Face | Complete (notebook) |
 
