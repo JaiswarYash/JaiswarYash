@@ -1,97 +1,37 @@
 # Hi, I'm Yash Jaiswar 👋
 
-ML Engineer building production-grade machine learning systems | MLOps • Fraud Detection • Data Quality
+**AI Engineer | LLM Applications • RAG Systems • MLOps • Fraud Detection**
 
----
+I build AI systems that move from notebook to production: retrieval-augmented
+LLM applications, ML pipelines, and monitoring for data and model quality. I
+care about reproducible code, clear evaluation, and systems that keep working
+after deployment.
 
-## 🎯 About Me
+## Projects
 
-I'm passionate about developing end-to-end machine learning pipelines, REST APIs, and data engineering solutions. With a focus on real-world ML systems, I combine strong fundamentals with hands-on implementation experience.
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| RAG Knowledge Assistant | Answers questions over private documents with cited sources | Python, LLM APIs, Vector DB | In progress, target Dec 2026 |
+| Data Quality & Drift Monitor | Detects data and model drift in production pipelines and raises alerts | Python, MLOps, Monitoring | In progress, target Dec 2026 |
+| Credit Card Fraud Detection | Classifies fraudulent transactions with a focus on precision and recall on rare cases | Python, scikit-learn, XGBoost, Pandas | In progress, target Dec 2026 |
+| LLM Fine-Tuning Notebook | Fine-tunes a language model in a Jupyter notebook and compares it with the base model | Python, Hugging Face | Complete (notebook) |
 
-**Key Focus Areas:**
-- Machine Learning Pipeline Development
-- MLOps & Model Monitoring (Data Quality & Drift Detection)
-- Fraud Detection & Anomaly Detection Systems
-- Data Engineering & Feature Engineering
-- End-to-End ML System Design
+## AI Engineering Focus
+- **LLM apps:** RAG, prompt engineering, tool calling
+- **Fine-tuning:** Hands-on model fine-tuning in notebooks
+- **Safety:** Guardrails (currently learning)
+- **Planned for December:** Evaluation (RAGAS, golden test sets) and observability (Langfuse), added to the RAG Knowledge Assistant
 
----
+## Tech Stack
+- **Languages:** Python, SQL
+- **ML & Data:** scikit-learn, XGBoost, Pandas, feature engineering
+- **LLM & AI:** RAG, vector databases, Hugging Face Transformers
+- **MLOps:** model monitoring, drift detection, reproducible pipelines
 
-## 💻 Current Projects
+## Currently Learning
+- Guardrails for LLM applications
+- Evaluation and observability for LLM systems
+- Production ML system architecture and deployment
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **RAG-Powered Knowledge Assistant** | Intelligent retrieval-augmented generation system | Python, LLM, Vector DB |
-| **Intelligent Data Quality & Drift Monitoring System** | End-to-End MLOps solution for real-time data and model monitoring | Python, MLOps, Monitoring, Data Quality |
-| **Credit Card Fraud Detection System** | ML-based fraud detection with high-precision classification | Python, Scikit-Learn, XGBoost, Pandas |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-### Machine Learning & Data
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-003366?style=flat&logo=xgboost&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-### AI & LLM Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat&logo=meta&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-## 📊 GitHub Activity
-
-- 💪 **125+** contributions in the last year
-- 📚 **4** public projects with complete documentation
-- 🔗 **2** repositories created in January 2026
-- 🎯 Focused on quality, reproducibility, and production-ready code
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-jaiswar-266849301/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/mr-yash-dev](https://github.com/mr-yash-dev))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yash.jaiswar0709@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
-
----
-
-## 🚀 What I'm Learning
-
-- Advanced MLOps practices and deployment strategies
-- Production ML system architecture
-- Distributed training and scaling ML systems
-- LLM fine-tuning and optimization
-
----
-
-## 📝 Quick Facts
-
-✅ Building real-world ML systems with production-grade code  
-✅ Passionate about clean, well-documented, maintainable code  
-✅ Experience with end-to-end ML lifecycle  
-✅ Always exploring new techniques and best practices  
-
----
-
-<div align="center">
-
-**Let's build something amazing together! Feel free to reach out 🚀**
-
-</div>
+## Let's Connect
+💻 [GitHub](https://github.com/JaiswarYash)
